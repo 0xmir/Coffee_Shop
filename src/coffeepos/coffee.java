@@ -245,6 +245,7 @@ public class coffee extends javax.swing.JFrame {
         jScrollPane1.setViewportView(jTable1);
 
         jLabel2.setFont(new java.awt.Font("Tahoma", 1, 36)); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon("D:\\Java Project\\coffee_Shop\\img\\TotalAssetsIcon.jpg")); // NOI18N
         jLabel2.setText("Total");
 
         txtsum.setBackground(new java.awt.Color(0, 0, 0));
